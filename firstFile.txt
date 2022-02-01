@@ -1,1 +1,2 @@
-This is a new text document 
+This is the first text document 
+git is tracking the changes I make
