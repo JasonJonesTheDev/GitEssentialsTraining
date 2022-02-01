@@ -14,7 +14,7 @@ Learn how to use Git, the popular open-source version control software, to manag
   * Assess the effect of making changes to documents in a repository.
   * Analyze the Git repository’s index of changes.
   * Analyze Git features for ignoring files and directories.  
-  * 
+  
 # Skills covered  
 
   * Git  
