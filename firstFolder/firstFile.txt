@@ -1,2 +1,4 @@
 This is the first text document 
 git is tracking the changes I make
+changing some text on a new branch
+more changes on this branch to be reset
