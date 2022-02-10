@@ -3,3 +3,4 @@ This is the first line added to the new_feature branch
 This was added to the aded_text branch
 changing some text on a new branch
 more changes on this branch to be reset
+making changes for a mixed reset

@@ -2,3 +2,4 @@ This is the third file
 git is awesome
 changing some text on a new branch
 more changes on this branch to be reset
+making changes for a mixed reset
