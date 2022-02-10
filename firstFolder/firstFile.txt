@@ -3,3 +3,4 @@ git is tracking the changes I make
 changing some text on a new branch
 more changes on this branch to be reset
 making changes for a mixed reset
+making some changes to do a true merge
